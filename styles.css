@@ -1,0 +1,50 @@
+body {
+  color: #000000;
+  background-color: rgb(255,254,254);
+  border: 15px solid #751c0c;
+  font-family: serif;
+  font-size: 140%;
+  line-height: 120%;
+}
+p {
+  font-family: serif;
+  font-size: 120%;
+  line-height: 140%;
+}
+q {
+  quotes: none;
+  vertical-align: middle;
+  font-size: 120%;
+}
+h1 {
+  font-family: ui-rounded, sans-serif;
+  font-size: 200%;
+  color: #777777;
+}
+h2 {
+  font-family: ui-rounded, sans-serif;
+  font-size: 150%;
+  line-height: 80%;
+  color: #777777;
+}
+ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+  list-style-type: disc;
+}
+li {
+  padding: 4px;
+  line-height: 120%;
+  font-size: 110%;
+}
+
+table {
+  border: 0;
+}
+tr {
+  padding: 4px;
+}
+td {
+  vertical-align: middle;
+}
